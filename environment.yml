@@ -1,0 +1,9 @@
+name: project-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - joblib
+  - scikit-learn
+prefix: /opt/anaconda3/envs/project-env
